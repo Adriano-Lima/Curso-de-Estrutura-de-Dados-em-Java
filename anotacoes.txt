@@ -1,0 +1,68 @@
+Curso: Estruturas de Dados em Java
+
+	memoria primaria -> ram
+	memoria secundaria -> rom
+
+	Pilha 
+		LIFO (last in first out)
+		metodos:
+			top(pega a ref do topo),pop (tira o no topo),push (add no)
+
+	Fila 
+		FIFO (first in, first out)
+		enqueue (add no), dequeue (tirar no), isEmpty
+
+	Lista encadeada
+		lista aponta para primeiro nó, cada nó aponta para o proximo
+		metodos: add(), remove(), get(), isEmpty()
+
+	Lista duplamente encadeada
+		a lista aponta para o primeiro e ultimo nós
+		cada nó aponta para o anteior e proximo nó
+	
+	Lista circular
+		primeiro no chamado de cabeça ultimo de calda
+		lista aponta para a calda	 	
+		
+	arvore
+		estrutura de dados bidimensional
+		nao linear
+		nos em um modelo hierarquico 
+		exs de utilizacao: sistemas de arquivos, bancos de dados	
+		raiz -> nó principal da arvore, o primeiro
+		nó pai e filho
+		nós irmãos
+		ultimos nós, nós sem filhos são as folhas
+		altura ou profundidade (grau maximo de nós)
+		grau de um nó -> quantidade de filhos
+
+		atravessamento:
+			in-ordem (ordem crescente)
+			pré-ordem  primeiro imprime depois visita ()
+			pós-ordem primeiro visita depois imprimi ()
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curso: Estruturas de Dados em Java
+Conteúdo: Pilhas, filas, listas encadeadas, listas duplamente encadeadas, listas circulares
+Instrutor: João Dutra
+
+Formação Java Developers
+Digital Innovation One Fanpage
+
+#dio #java #backenddeveloper #webdeveloper 		 	

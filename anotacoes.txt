@@ -40,9 +40,23 @@ Curso: Estruturas de Dados em Java
 			in-ordem (ordem crescente)
 			pré-ordem  primeiro imprime depois visita ()
 			pós-ordem primeiro visita depois imprimi ()
-			
+	
+	equals() e hashCode()
+		- Melhorar a busca de objetos
+		- Devem ser implementados juntos		
+	
+	stack - pilha
+		principais metodos: push, pop, peek, empty			
 
+	Queue - filas
+		principais metodos: add, element, offer, peek, remove, poll, isEmpty	
 
+	Set -  conjunto
+		hashSet, conjunto de dados, nao segue a ordem de insercao
+		treeSet arvore, ordena de acordo o metodo compareTo da classe de modelo
+
+	Map	
+		dicionario <chave, valor>
 
 
 
@@ -63,6 +77,6 @@ Conteúdo: Pilhas, filas, listas encadeadas, listas duplamente encadeadas, lista
 Instrutor: João Dutra
 
 Formação Java Developers
-Digital Innovation One Fanpage
+Digital Innovation One
 
-#dio #java #backenddeveloper #webdeveloper 		 	
+#dio #java #backenddeveloper	 	

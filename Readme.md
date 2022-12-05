@@ -36,7 +36,7 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 - [x] - Implementação da classe Pilha (Métodos: Top, Push e Pop )
 - [x] - Utilização da Classe Pilha
 
-- [Clique aqui para acessar o Código.]()
+- [Clique aqui para acessar o Código.](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/pilha)
 
 • Aula – 3 Filas [FIFO: First in, First Out]
 
@@ -45,6 +45,8 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 - [x] - Utilização da Classe Fila
 - [x] - Refatoração para embutir o nó
 - [x] - Refatoração para utilização de generics
+
+- [Clique aqui para acessar o Código.](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/fila)
 
 • Aula – 4 Listas Encadeadas
 
@@ -58,7 +60,7 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 - [x] - Implementação da classe ListaEncadeada (toString())
 - [x] - Utilização da Classe ListaEncadeada
 
-- [Clique aqui para acessar o Código.]()
+- [Clique aqui para acessar o Código.](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/lista/encadeada)
 
 • Aula – 5 Listas Duplamente Encadeadas
 
@@ -72,7 +74,7 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 - [x] - Implementação da classe ListaDuplamenteEncadeada (toString())
 - [x] - Utilização da Classe ListaDuplamenteEncadeada
 
-- [Clique aqui para acessar o Código.]()
+- [Clique aqui para acessar o Código.](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/listaduplamenteencadeada)
 
 • Aula – 6 Listas Circulares
 
@@ -85,7 +87,7 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 - [x] - Implementação da classe ListaCircular (toStrinf())
 - [x] - Utilização da Classe ListaCircular
 
-- [Clique aqui para acessar o Código.]()
+- [Clique aqui para acessar o Código.](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/listacircular)
 
 • Aula – 7 Árvores
 
@@ -98,14 +100,14 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 - [x] - Implementação da classe ArvoreBinaria
 - [x] – Utilização da classe ArvoreBinaria
 
-- [Clique aqui para acessar o Código.]()
+- [Clique aqui para acessar o Código.](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/arvorebinaria)
 
 • Aula – 8 Principais Implementações das estruturas de dados do Java
 
-- [x] - Conceitos de equals e hashCode
-- [x] - Stack (Pilha)
-- [x] - Queue (Fila, LinkedList)
-- [x] - List (ArrayList)
-- [x] - Set (HashSet)
-- [x] - Map (HashMap)
+- [x] - Conceitos de equals e hashCode (https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/equalshashcode)
+- [x] - Stack (Pilha) (https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/stack/Main.java)
+- [x] - Queue (Fila, LinkedList) (https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/queue/Main.java)
+- [x] - List (ArrayList) (https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/list/Main.java)
+- [x] - Set (HashSet) (https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/set/Main.java)
+- [x] - Map (HashMap) (https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/map/Main.java)
 - [x] - Conclusão

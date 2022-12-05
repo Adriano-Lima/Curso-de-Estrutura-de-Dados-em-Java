@@ -104,16 +104,10 @@ O curso foi ministrado pelo instrututor <b>João Dutra</b>
 
 • Aula – 8 Principais Implementações das estruturas de dados do Java
 
-- [x] - Conceitos de equals e hashCode 
-(https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/equalshashcode)
-- [x] - Stack (Pilha) 
-(https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/stack/Main.java)
-- [x] - Queue (Fila, LinkedList) 
-(https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/queue/Main.java)
-- [x] - List (ArrayList)
-(https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/list/Main.java)
-- [x] - Set (HashSet) 
-(https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/set/Main.java)
-- [x] - Map (HashMap)
-(https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/map/Main.java)
+- [x] - [Conceitos de equals e hashCode](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/tree/main/estruturas-de-dados/src/com/adriano/equalshashcode)
+- [x] - [Stack (Pilha)](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/stack/Main.java)
+- [x] - [Queue (Fila, LinkedList)](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/queue/Main.java)
+- [x] - [List (ArrayList)](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/list/Main.java)
+- [x] - [Set (HashSet)](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/set/Main.java)
+- [x] - [Map (HashMap)](https://github.com/Adriano-Lima/Curso-de-Estrutura-de-Dados-em-Java/blob/main/estruturas-de-dados/src/com/adriano/map/Main.java)
 - [x] - Conclusão
